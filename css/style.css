@@ -1,0 +1,16 @@
+.navbar-inner
+{
+	background: #8fbed8; /* Old browsers */
+background: -moz-linear-gradient(top,  #8fbed8 44%, #5dadd8 67%, #267aa8 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(44%,#8fbed8), color-stop(67%,#5dadd8), color-stop(100%,#267aa8)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #8fbed8 44%,#5dadd8 67%,#267aa8 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #8fbed8 44%,#5dadd8 67%,#267aa8 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #8fbed8 44%,#5dadd8 67%,#267aa8 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #8fbed8 44%,#5dadd8 67%,#267aa8 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8fbed8', endColorstr='#267aa8',GradientType=0 ); /* IE6-9 */
+}
+
+.hero-unit
+{
+	background-color:#DFB3DE;
+}
